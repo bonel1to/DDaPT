@@ -1,0 +1,20 @@
+{
+  "fio": "Сергей Бондаренко",
+  "position": "Junior Python-разработчик",
+  "city": "Ярославль",
+  "salary": 90000,
+  "ready_to_move": false,
+  "updated": { "$date": "2026-10-28T10:00:00Z" },
+  "skills": ["Python", "SQL", "Git"],
+  "experience": [
+    {
+      "company": "Учебный проект",
+      "role": "разработчик",
+      "months": 6,
+      "stack": ["Python", "SQL"]
+    }
+  ],
+  "contacts": {
+    "email": "sergey.bondarenko@example.com"
+  }
+}
